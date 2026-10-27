@@ -59,5 +59,5 @@ Welcome to **Jem Lab** — a technical portfolio and hands-on sandbox showcasing
 
 ## 🔗 Connect
 
-- **Portfolio Site:** [jem-lab live demo](https://jemelynviray.github.io/jem-lab)
+- **Portfolio Site:** [jem-lab](https://jv-hub07.github.io/jem-lab/)
 - **LinkedIn:** [linkedin.com/in/jemelynviray](https://linkedin.com)
